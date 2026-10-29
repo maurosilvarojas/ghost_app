@@ -1,1 +1,89 @@
-# ghost_app
+# Política de privacidad de GhostApp
+
+**Fecha de entrada en vigor:** 28 de octubre de 2026  
+**Aplicación:** GhostApp  
+**Identificador de paquete:** `com.ghostapp.presencia`  
+**Contacto de privacidad:** artefactodigitalcolombia@gmail.com
+
+## 1. Responsable de la aplicación
+
+GhostApp es una aplicación para dispositivos Android que ofrece una experiencia interactiva de temática paranormal. Para consultas sobre privacidad, tratamiento de datos o esta política, puedes escribir a artefactodigitalcolombia@gmail.com.
+
+## 2. Cómo funciona GhostApp
+
+La aplicación puede utilizar el sensor de campo magnético del dispositivo para obtener lecturas que intervienen en la generación de palabras y frases. También puede mostrar un registro de mensajes y reproducirlos mediante el servicio de síntesis de voz (Text-to-Speech) disponible en el dispositivo.
+
+Las lecturas son señales de sensores físicos y no constituyen pruebas científicas de la existencia de espíritus ni de actividad paranormal.
+
+## 3. Información que puede utilizarse
+
+Según las funciones habilitadas en la versión instalada, GhostApp puede procesar las siguientes categorías de información:
+
+- **Datos de sensores:** lecturas del campo magnético, utilizadas para alimentar la experiencia interactiva.
+- **Datos de funcionamiento de la aplicación:** palabras, frases y registros generados durante la sesión, que pueden mantenerse temporalmente en memoria o almacenamiento local, según la implementación.
+- **Datos técnicos:** información de funcionamiento del sistema Android y del dispositivo que pueda estar disponible para la aplicación o para los servicios externos que se incorporen.
+
+GhostApp no requiere que el usuario cree una cuenta para utilizar sus funciones principales.
+
+Esta política no afirma que todas las categorías anteriores se recopilen o transmitan. El tratamiento efectivo depende de las funciones y bibliotecas incluidas en la versión instalada.
+
+## 4. Uso de los datos
+
+La información descrita puede utilizarse exclusivamente para las siguientes finalidades, cuando correspondan a las funciones implementadas:
+
+- Obtener lecturas de los sensores para generar respuestas interactivas.
+- Mostrar palabras, frases y registros de la sesión.
+- Reproducir mensajes mediante síntesis de voz.
+- Diagnosticar errores y mantener el funcionamiento técnico de la aplicación, cuando existan mecanismos de diagnóstico habilitados.
+
+## 5. Almacenamiento, conservación y eliminación
+
+Los registros temporales generados durante una sesión pueden conservarse en la memoria de la aplicación. Si una versión almacena información de forma persistente, esta se conservará durante el tiempo necesario para la función correspondiente.
+
+Los datos guardados exclusivamente en el almacenamiento local de la aplicación pueden eliminarse borrando los datos de la aplicación desde los ajustes de Android o desinstalándola, dependiendo del tipo de almacenamiento utilizado.
+
+Si en el futuro se incorporan servicios que transmitan o almacenen información fuera del dispositivo, esta política se actualizará para describir los datos implicados, las finalidades, los destinatarios y los procedimientos de eliminación aplicables.
+
+## 6. Comunicación de datos a terceros
+
+La versión de GhostApp descrita en esta política no tiene AdMob integrado en su configuración actual de desarrollo.
+
+Si se incorporan posteriormente servicios de publicidad, analítica, diagnóstico u otros proveedores externos, estos podrán tratar los datos que sean necesarios para prestar sus servicios, de acuerdo con la integración concreta, sus propias políticas y las opciones de privacidad disponibles.
+
+Antes de publicar una versión con dichos servicios, se actualizará esta política y, cuando corresponda, la declaración de Seguridad de los datos de Google Play para reflejar la información recopilada, utilizada o compartida por la aplicación y sus proveedores.
+
+## 7. Permisos y acceso a funciones del dispositivo
+
+La aplicación utiliza los sensores necesarios para su funcionamiento cuando están disponibles. El acceso efectivo depende de los permisos declarados, las capacidades del dispositivo y las funciones habilitadas.
+
+La síntesis de voz puede depender del motor Text-to-Speech instalado o seleccionado en Android. El tratamiento de datos que realice un servicio del sistema o proveedor externo puede estar sujeto a sus propias condiciones y políticas.
+
+No se debe interpretar esta sección como una garantía de que la aplicación carece de otros permisos: los permisos efectivos deben verificarse en la versión publicada.
+
+## 8. Seguridad
+
+Se adoptan medidas razonables para proteger la información tratada por la aplicación. La información que permanece exclusivamente en el dispositivo está sujeta a las medidas de seguridad de Android y a la configuración del propio dispositivo.
+
+Cuando se integren proveedores externos, el tratamiento y la transmisión de información deberán ajustarse a las medidas de seguridad aplicables a esos servicios.
+
+Ningún sistema puede garantizar una seguridad absoluta.
+
+## 9. Privacidad de menores
+
+GhostApp no está diseñada específicamente para recopilar información personal de menores. La aplicación debe utilizarse de acuerdo con la clasificación por edades, el público objetivo declarado y las normas aplicables.
+
+Si se decide dirigir la aplicación a niños o incluirla en programas para familias, se revisarán previamente los requisitos adicionales aplicables a publicidad, consentimiento y tratamiento de datos.
+
+## 10. Cambios en esta política
+
+Esta política podrá actualizarse cuando cambien las funciones de GhostApp, los permisos, el almacenamiento o los proveedores externos utilizados.
+
+La versión vigente estará disponible en la misma dirección web en la que se publique este documento.
+
+## 11. Contacto
+
+Para preguntas, solicitudes o consultas relacionadas con privacidad y datos personales, escribe a:
+
+**artefactodigitalcolombia@gmail.com**
+
+Indica en el asunto que tu consulta está relacionada con la privacidad de GhostApp.
